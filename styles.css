@@ -1,0 +1,33 @@
+.p{
+    font-style: italic;
+}
+.b{
+    font-weight: bold;
+}
+.list{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+#border{
+    height:610px;
+    border-style: solid;
+    border-width: thin;
+    border-color: gainsboro;
+    box-shadow: 6px 6px gainsboro;
+    width: 30%;
+    padding: 1em;
+    margin-top: 5px;
+    }
+.border_1{
+    border-style: solid;
+    border-width: thin;
+    border-color: gainsboro;
+    width: 385px;
+    margin-top: 15px;
+    padding-left: 10px;
+    padding-right: 4px;
+}
+.image{
+    width: 400px;
+}
